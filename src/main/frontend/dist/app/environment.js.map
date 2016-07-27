@@ -1,0 +1,1 @@
+{"version":3,"file":"environment.js","sourceRoot":"","sources":["../Users/dlizarra/dev/projects/spring-angular2-cli-starter/src/main/frontend/tmp/broccoli_type_script_compiler-input_base_path-c8EZASfg.tmp/0/src/app/environment.ts"],"names":[],"mappings":";AAAa,mBAAW,GAAG;IACzB,UAAU,EAAE,KAAK;CAClB,CAAC","sourcesContent":["export const environment = {\n  production: false\n};\n"]}
