@@ -1,7 +1,7 @@
 # Spring Boot and Angular 2 starter app
 
 > Starter webapp using Spring Boot on the backend and Angular 2 on the frontend, with 
-Maven and Angular CLI as build tools, hot reloading on both sides and no xml configuration.
+Maven and Angular CLI as build tools and with hot reloading on both sides.
 
 ## Quickstart
 Run the app:
