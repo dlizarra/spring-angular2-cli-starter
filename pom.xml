@@ -23,7 +23,7 @@
 		<java.version>1.8</java.version>
 		<orika-core.version>1.4.6</orika-core.version>
 		<assertj-core.version>3.2.0</assertj-core.version>
-		<lombok.version>1.16.6</lombok.version>
+		<lombok.version>1.16.10</lombok.version>
 		<cobertura-plugin.version>2.7</cobertura-plugin.version>
 		<coveralls-plugin.version>4.0.0</coveralls-plugin.version>
 		<frontend-plugin.version>0.0.27</frontend-plugin.version>
