@@ -1,19 +1,18 @@
 package com.dlizarra.starter.user;
 
-import static org.assertj.core.api.Assertions.*;
-
-import java.util.List;
-import java.util.Optional;
-
+import com.dlizarra.starter.support.AbstractIntegrationTest;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.jdbc.Sql;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.dlizarra.starter.support.AbstractWebIntegrationTest;
+import java.util.List;
+import java.util.Optional;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 @Sql({ "classpath:/sql/cleanup.sql", "classpath:/sql/user.sql" })
-public class UserRepositoryTest extends AbstractWebIntegrationTest {
+public class UserRepositoryTest extends AbstractIntegrationTest{
 
 	@Autowired
 	private UserRepository userRepository;
