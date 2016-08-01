@@ -1,3 +1,6 @@
+<img src="src/main/frontend/public/boot-logo.png" height="120px">
+<img style="margin-bottom: 20px" src="src/main/frontend/public/plus.png" height="80px"> 
+<img src="src/main/frontend/public/ng-logo.png" height="120px">
 # Spring Boot and Angular 2 starter app
 
 > Starter webapp using Spring Boot on the backend and Angular 2 on the frontend, with 
